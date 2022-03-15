@@ -61,9 +61,9 @@
     "DOWNLOAD_STATUS_UPDATE_INTERVAL": {
       "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work.",
       "value": "5"
-    }
-  },
-  "stack": "container"
+    },
+  "stack": {
+    "container"
 }
 
 
